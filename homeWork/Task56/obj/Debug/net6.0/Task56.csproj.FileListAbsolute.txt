@@ -1,0 +1,15 @@
+D:\Desktop\S8_C#\homeWork\Task56\bin\Debug\net6.0\Task56.exe
+D:\Desktop\S8_C#\homeWork\Task56\bin\Debug\net6.0\Task56.deps.json
+D:\Desktop\S8_C#\homeWork\Task56\bin\Debug\net6.0\Task56.runtimeconfig.json
+D:\Desktop\S8_C#\homeWork\Task56\bin\Debug\net6.0\Task56.dll
+D:\Desktop\S8_C#\homeWork\Task56\bin\Debug\net6.0\Task56.pdb
+D:\Desktop\S8_C#\homeWork\Task56\obj\Debug\net6.0\Task56.csproj.AssemblyReference.cache
+D:\Desktop\S8_C#\homeWork\Task56\obj\Debug\net6.0\Task56.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\S8_C#\homeWork\Task56\obj\Debug\net6.0\Task56.AssemblyInfoInputs.cache
+D:\Desktop\S8_C#\homeWork\Task56\obj\Debug\net6.0\Task56.AssemblyInfo.cs
+D:\Desktop\S8_C#\homeWork\Task56\obj\Debug\net6.0\Task56.csproj.CoreCompileInputs.cache
+D:\Desktop\S8_C#\homeWork\Task56\obj\Debug\net6.0\Task56.dll
+D:\Desktop\S8_C#\homeWork\Task56\obj\Debug\net6.0\refint\Task56.dll
+D:\Desktop\S8_C#\homeWork\Task56\obj\Debug\net6.0\Task56.pdb
+D:\Desktop\S8_C#\homeWork\Task56\obj\Debug\net6.0\Task56.genruntimeconfig.cache
+D:\Desktop\S8_C#\homeWork\Task56\obj\Debug\net6.0\ref\Task56.dll
